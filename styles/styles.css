@@ -1,0 +1,20 @@
+@font-face {
+    font-family: paw prints;
+    src: url(./MFPawPrints.ttf);
+}
+
+
+html {
+    background-color: #9e3bfa;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42pt;
+    text-emphasis: bolder;
+}
+
+.subheader {
+    font: 40pt "paw prints";
+    text-align: center;
+}
